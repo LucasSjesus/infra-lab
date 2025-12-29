@@ -79,6 +79,8 @@ infra-lab/
 └── README.md
 ```
 
+---
+
 ### ✅ SEMANA 2
 - Criação do script de setup, com usuários, PAM, SSH e firewall
 
