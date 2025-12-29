@@ -70,8 +70,11 @@ Construir, automatizar e proteger uma infraestrutura Linux do zero, aplicando:
 
 ```
 infra-lab/
-├── scripts/        # Scripts de automação (Bash)
-├── docs/           # Documentação técnica
-├── screenshots/    # Evidências do laboratório
+├── terraform/
+├── ansible/
+├── docker/
+├── scripts/
+├── security/
+├── docs/
 └── README.md
 ```
