@@ -90,3 +90,10 @@ infra-lab/
 - Formato: `.tar.gz` com timestamp
 - Configurado via cron
 
+### 🩺 Watchdog de Serviço
+
+- Serviço monitorado: `sshd`
+- Execução automática via cron
+- Reinício automático em falha
+- Logs estruturados em JSON
+- Arquivo: `/var/log/infra-lab-watchdog.log`
