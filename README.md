@@ -78,3 +78,13 @@ infra-lab/
 ├── docs/
 └── README.md
 ```
+
+### SEMANA 2
+- Criação do script de setup, com usuários, PAM, SSH e firewall
+
+- Criação do script de backup:
+- Diretórios: `/etc`, `/home/devuser`
+- Logs: `/var/log/infra-lab-backup.log`
+- Formato: `.tar.gz` com timestamp
+- Configurado via cron
+
